@@ -1,0 +1,44 @@
+{
+    "animes": [
+        {
+            "id": "bleach",
+            "name": "Bleach",
+            "release": "October 5, 2004",
+            "ending": "March 27, 2012",
+            "description": "dhkshduihihdhduiehiuiceuchhcichuiciuoshciociuhcihcicheiche",
+            "image": "https://en.wikipedia.org/wiki/Bleach_(TV_series)#/media/File:Bleachanime.png"
+        },
+        {
+            "id": "naruto",
+            "name": "Naruto",
+            "release": "October 5, 2004",
+            "ending": "March 27, 2012",
+            "description": "dhkshduihihdhduiehiuiceuchhcichuiciuoshciociuhcihcicheiche",
+            "image": "https://en.wikipedia.org/wiki/Naruto#/media/File:NarutoCoverTankobon1.jpg"
+        },
+        {
+            "id": "dragon-ball",
+            "name": "Dragon Ball",
+            "release": "October 7, 1997",
+            "ending": "March 4, 2017",
+            "description": "dhkshduihihdhduiehiuiceuchhcichuiciuoshciociuhcihcicheiche",
+            "image": "https://en.wikipedia.org/wiki/Dragon_Ball#/media/File:Weekly_Sh%C5%8Dnen_Jump_No._51_(Dec._1984)_is_the_first_appearance_of_Goku._Cover_art_by_Akira_Toriyama.jpg"
+        },
+        {
+            "id": "one-piece",
+            "name": "One Piece",
+            "release": "October 10, 1995",
+            "ending": "March 28, 2030",
+            "description": "dhkshduihihdhduiehiuiceuchhcichuiciuoshciociuhcihcicheiche",
+            "image": "https://en.wikipedia.org/wiki/One_Piece#/media/File:One_Piece,_Volume_61_Cover_(Japanese).jpg"
+        },
+        {
+            "id": "doraemon",
+            "name": "Doraemon",
+            "release": "October 9, 1990",
+            "ending": "March 12, 2007",
+            "description": "dhkshduihihdhduiehiuiceuchhcichuiciuoshciociuhcihcicheiche",
+            "image": "https://en.wikipedia.org/wiki/Doraemon#/media/File:Doraemon_volume_1_cover.jpg"
+        }
+    ]
+}
